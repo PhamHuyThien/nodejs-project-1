@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-project-1",
+  "version": "1.0.0",
+  "description": "project demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "test": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhamHuyThien/nodejs-project-1.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "project",
+    "1"
+  ],
+  "author": "Pham Huy Thien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhamHuyThien/nodejs-project-1/issues"
+  },
+  "homepage": "https://github.com/PhamHuyThien/nodejs-project-1#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "md5": "^2.3.0"
+  }
+}
